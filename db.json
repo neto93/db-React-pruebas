@@ -1,0 +1,23 @@
+{
+    "cursos" : [
+        {
+          "title":"duro ed pelar",
+          "img":"https://scontent.faqp3-1.fna.fbcdn.net/v/t1.0-9/1465226_447424918711748_1995898207_n.jpg?_nc_cat=111&_nc_sid=85a577&_nc_ohc=Be78PCCfQKoAX-Q3Ej4&_nc_ht=scontent.faqp3-1.fna&oh=4f8c603a6114e60bd289b96c6a0ec35c&oe=5EAEBC3E",
+          "price":"100 soles"
+        },
+        {
+          "title":"kokoa r",
+          "img":"https://i.pinimg.com/originals/28/d5/22/28d522adbc8c46437d58c3a3f446e6f3.jpg",
+          "price":"100 soles"
+        },
+        {
+          "title":"perro ",
+          "img":"https://www.duiops.net/hardware/micros/images/pent3_2.jpg",
+          "price":"100 soles"
+        },{
+          "title":"sheed",
+          "img":"https://deepsanddeeps.com/blog/wp-content/uploads/2017/05/deeps-and-deeps-blog-alien-foto-ALIEN.jpg",
+          "price":"100 soles"
+        }
+        ]
+}
